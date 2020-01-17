@@ -15,20 +15,20 @@ Information is presented for the M5 instances which are the latest generation of
 
 | **Instance Type**  | **Saturation points, rps** | **vUsers count** | **DiskIOPS** | **Java Options**|
 | ------------- | ------------- |------------- | ------------- | ------------- |
-| m5.large | 640  | 60| up to 3 000 |-Xmx1g |
-| m5.2xlarge  | 1374  | 115 | up to 4 000 |-Xmx2g |
-| m5.4xlarge  | 3104   | 356 |up to 8 000 |-Xmx3g |
-| m5.9xlarge  | 5700  | 489 |up to 10 000 |-Xmx4g |
+| c5.large | 640  | 60| up to 3 000 |-Xmx1g |
+| c5.2xlarge  | 1374  | 115 | up to 4 000 |-Xmx2g |
+| c5.4xlarge  | 3104   | 356 |up to 8 000 |-Xmx3g |
+| c5.9xlarge  | 5700  | 489 |up to 10 000 |-Xmx4g |
 
 
 ##### Application and Database are deployed on the same VM
 
 | **Instance Type**  | **Saturation points, rps** | **vUsers count** | **DiskIOPS** | **Java Options**|
 | ------------- | ------------- |------------- | ------------- | ------------- |
-| m5.large | 521  | 50| up to 3 000 |-Xmx1g |
-| m5.2xlarge  | 1078 | 83 | up to 4 000 |-Xmx2g |
-| m5.4xlarge  | 2940   | 305 |up to 8 000 |-Xmx3g |
-| m5.9xlarge  | 5227  | 440 |up to 10 000 |-Xmx4g |
+| c5.large | 521  | 50| up to 3 000 |-Xmx1g |
+| c5.2xlarge  | 1078 | 83 | up to 4 000 |-Xmx2g |
+| c5.4xlarge  | 2940   | 305 |up to 8 000 |-Xmx3g |
+| c5.9xlarge  | 5227  | 440 |up to 10 000 |-Xmx4g |
 
 #### M5 instances
 ##### Application and Database are deployed on different VMs
